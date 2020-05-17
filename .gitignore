@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+yarn.lock
+dist
+src/commands/NS*/**
+src/inhibitors/NS*/**
+src/services/nh*.ts
+env.*
