@@ -19,6 +19,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org)
 - [Discord.js](https://discord.js.org)
 
 ## 🤔 Como contribuir
